@@ -26,8 +26,8 @@ export const AboutMe = () => {
                         <h3 className="text-2xl font-semibold"></h3>
 
                         <p className="text-muted-foreground">
-                            Hello! I'm Tony Li and I'm a third year <span className="text-primary font-semibold">Computer Science</span> student at Western University and
-                            a <span className="text-primary font-semibold">Honours Business Administration</span> student at Ivey Business School. 
+                            Hello! I'm Tony Li and I'm a third-year <span className="text-primary font-semibold">Computer Science</span> student at Western University and
+                            an <span className="text-primary font-semibold">Honours Business Administration</span> student at Ivey Business School. 
                         </p>
 
                         <p className="text-muted-foreground">
@@ -42,7 +42,7 @@ export const AboutMe = () => {
                         </p>
 
                         <div className="flex gap-4 justify-center">
-                            <a href="" className="buttons">
+                            <a href="/Tony_Resume.pdf" target="_blank" rel="noopener noreferrer" className="buttons">
                                 Resume
                             </a>
 
